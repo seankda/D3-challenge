@@ -435,4 +435,4 @@ makeResponsive();
 // Also tried looking for dynamic d3 chart on window resize
 // This is the only thing I could come up with close to what's shown in gif
 // I could only get it to work when resizing from inspector window
-window.addEventListener('resize', drawChart);
+window.addEventListener('resize', makeResponsive);
