@@ -1,5 +1,7 @@
 # D3 Homework - Data Journalism and D3
 
+View page here [here](https://seankda.github.io/D3-challenge/)
+
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
 ## Background
